@@ -1,0 +1,58 @@
+.container{
+    margin-bottom: 100px;
+}
+
+.buy-Now-button{
+    background-image: linear-gradient(to bottom, #080004 0%, #111010 100%);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+
+.indicator{
+    background-image: linear-gradient(to right, #FFB726 0%, #FFD019 100%);
+    padding: 2.5px;
+
+}
+
+.carousel-inner h1{
+    margin-bottom: 30px;
+}
+
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+
+.pic1{
+    
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+
+.pic2{
+    
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+
+hr{
+    width: 100px;
+    height: 5px;
+    background-image: linear-gradient(to right, #FFB726 0%, #FFD019 100%);
+    border: none;
+    border-radius: 10px;
+}
+
+.center{
+    text-align: center;
+}
+
+.col-md-3{
+    text-align: center;
+}
